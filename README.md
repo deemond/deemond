@@ -7,7 +7,7 @@
 Я начинающий разработчик. 
 
 
-- Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-dmbelokon-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dabelokon) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dabelokon@gmail.com)
+- Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-dabelokon-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dabelokon) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dabelokon@gmail.com)
 
 ---
 
