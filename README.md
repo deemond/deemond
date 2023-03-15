@@ -13,9 +13,9 @@
 #### Технологии:
 
 ![GIT](https://img.shields.io/badge/-GIT-%23E44D27?style=flat-square&logo=git&logoColor=ffffff)
-![C#](https://img.shields.io/badge/-CSharp-3c1574?style=flat-square&logo=csharp)
+<!-- ![C#](https://img.shields.io/badge/-CSharp-3c1574?style=flat-square&logo=csharp) -->
 ![LaTeX](https://img.shields.io/badge/-LaTeX-%23F7DF1C?style=flat-square&logo=latex&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Swift](https://img.shields.io/badge/-Swift-%23E44D27?style=flat-square&logo=swift&logoColor=white)
+<!--![Swift](https://img.shields.io/badge/-Swift-%23E44D27?style=flat-square&logo=swift&logoColor=white)-->
 
 <!--
 <div>
