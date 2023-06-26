@@ -13,10 +13,9 @@
 #### Технологии:
 
 ![GIT](https://img.shields.io/badge/-GIT-%23E44D27?style=flat-square&logo=git&logoColor=ffffff)
-<!-- ![C#](https://img.shields.io/badge/-CSharp-3c1574?style=flat-square&logo=csharp) -->
 ![LaTeX](https://img.shields.io/badge/-LaTeX-%23F7DF1C?style=flat-square&logo=latex&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-<!--![Swift](https://img.shields.io/badge/-Swift-%23E44D27?style=flat-square&logo=swift&logoColor=white)-->
-
+![Swift](https://img.shields.io/badge/-Swift-%23E44D27?style=flat-square&logo=swift&logoColor=white)
+<!-- ![C#](https://img.shields.io/badge/-CSharp-3c1574?style=flat-square&logo=csharp) -->
 <!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -31,7 +30,7 @@
 
 ![XCode](https://img.shields.io/badge/-XCode-05a7ed?style=flat-square&logo=xcode&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/-VSCode-2589c9?style=flat-square&logo=visualstudiocode)
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-3c1574?style=flat-square&logo=visualstudio)
+<!--![VisualStudio](https://img.shields.io/badge/-VisualStudio-3c1574?style=flat-square&logo=visualstudio)-->
 
 <!--
 <div>
